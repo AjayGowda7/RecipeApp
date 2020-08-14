@@ -1,8 +1,4 @@
-Check app here and enjoy your meal ;)
+within the root folder of the project run the command *npm install*
 
-
-Recipe App With React and Recipe Search API (https://developer.edamam.com/edamam-recipe-api)
-
-Thanks to Dev Ed <3
 
 
